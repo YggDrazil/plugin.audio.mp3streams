@@ -1,0 +1,16 @@
+<strings>
+	<!-- Settings -->
+    <string id="10011">Goldenen Pfad verwenden</string>
+    <string id="10007">Verwende die Pre Cache Methode</string>
+    <string id="10008">Pre Chache Limit</string>
+    <string id="10010">Alle Tracks bei Wiedergabe sichern</string>
+    <string id="10000">Eigenes Musik Verzeichnis</string>
+    <string id="10001">Musik Verzeichnis</string>
+    <string id="10009">Künstler/Album Ordner Struktur</string>
+    <string id="10002">Queue songs on selection</string>
+    <string id="10003">Queue albums on selection</string>
+    <string id="10004">Wähle XBMC Player</string>
+    <string id="10005">Verwende Alternative Quellen (Pre Cache darf nicht Aktiv sein)</string>
+    <string id="10006">Während der Wiedergabe Fanart ausblenden</string>
+    
+</strings>
