@@ -1,4 +1,4 @@
-<div style="text-align:center">![alt tag](https://raw.githubusercontent.com/YggDrazil/plugin.audio.mp3streams/master/images/logo.png)</div>
+<div style="text-align:center">http://kodinerds.bplaced.net/img/xmbc.png</div>
 
 # MP3 Streams 
 A Audio Plugin for XBMC
